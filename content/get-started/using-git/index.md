@@ -1,3 +1,5 @@
+[release-please-manifest (1).json](https://github.com/user-attachments/files/25162147/release-please-manifest.1.json)
+[devcontainer.json](https://github.com/user-attachments/files/25162146/devcontainer.json)
 ---
 title: Using Git
 intro: 'Use Git to manage your {% data variables.product.github %} repositories from your computer.'
